@@ -1,7 +1,7 @@
 simplewebapp
 ============
 
-simple web app, with yii framework (version 1.*)
+simple web app, with yii framework (version 1.*), extension : yiistrap, yiiwheels
 
 1. change yii dir path, index.php 
 2. import db, *.sql
